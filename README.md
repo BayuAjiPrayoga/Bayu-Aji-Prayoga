@@ -108,7 +108,7 @@ Saya Mahasiswa S1 Program Studi Teknik Informatika yang Memiliki pengalaman beke
 
 <details>
   <summary>
-    <h2>Camila's Updates</h2>
+    <h2>Bayu Updates</h2>
   </summary>
 
 ### On Her Blog (in Portuguese)
@@ -119,15 +119,12 @@ Saya Mahasiswa S1 Program Studi Teknik Informatika yang Memiliki pengalaman beke
 - [O desafio do debate: a guerra de informações sobre o PL das Fake News](https://camilaloliveira.com.br/blog/milla/o-desafio-do-debate-a-guerra-de-informacoes-sobre-o-pl-das-fake-news/)
 <!-- BLOG:END -->
 
-### On Her YouTube (in Portuguese)
-<!-- YOUTUBE:START --><table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=LMZ6nu2wDXk"><img width="200px" src="https://i.ytimg.com/vi/LMZ6nu2wDXk/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/watch?v=LMZ6nu2wDXk">Exemplo de App criado em Flutter para Android</a><br/>Jan 19, 2023</td></tr></table>
-<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=mPbHteaCD6o"><img width="200px" src="https://i.ytimg.com/vi/mPbHteaCD6o/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/watch?v=mPbHteaCD6o">Exemplo de App criado em Flutter para iOS</a><br/>Jan 19, 2023</td></tr></table>
-<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=gGDdalEaHVU"><img width="200px" src="https://i.ytimg.com/vi/gGDdalEaHVU/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/watch?v=gGDdalEaHVU">Conhecendo o jogo Destiny 2</a><br/>Dec 27, 2022</td></tr></table>
-<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=_qQlRJ88-Do"><img width="200px" src="https://i.ytimg.com/vi/_qQlRJ88-Do/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/watch?v=_qQlRJ88-Do">Jogando GT ao vivo</a><br/>Oct 26, 2022</td></tr></table>
+### On Her YouTube (in UTB)
+<!-- YOUTUBE:START --><table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=LMZ6nu2wDXk"><img width="200px" src="https://i9.ytimg.com/vi/65iJVIJBRrk/maxresdefault.jpg?v=663662ce&sqp=CKDpw7kG&rs=AOn4CLBc85XDNqKvBINVKqU8JKp7wJ2NuA"></a></td>
+<td width="800px"><a href="https://youtu.be/65iJVIJBRrk">TUTORIAL MEMBUAT DATABASE MENGGUNAKAN CMD DAN XAMPP</a><br/>Jan 19, 2023</td></tr></table>
+<table><tr><td width="250px"><a href="https://youtu.be/65iJVIJBRrk"><img width="200px" src="https://i9.ytimg.com/vi/U_dA1xptyqA/maxresdefault.jpg?v=669d5773&sqp=CKDpw7kG&rs=AOn4CLCD2v65MXFOtCQA1vE7rT73aIi0tw"></a></td>
+<td width="800px"><a href="https://youtu.be/U_dA1xptyqA">TUGAS UAS SISTEM BASIS DATA (Database MYSQL CMD - PHPMYADMIN) BAB 10, BAB 11 dan BAB 12.</a><br/>Jan 19, 2023</td></tr></table>
+<table><tr><td width="250px"><a href="https://youtu.be/U_dA1xptyqA"><img width="200px" src=""></a></td>
 <!-- YOUTUBE:END -->
 
 ### On Her GitHub
